@@ -1,0 +1,238 @@
+body {
+	margin:0pt;
+}
+.first--half{
+	height:14%;
+	width:100%;
+	background-color:#e7f1f5;
+	margin-top:-12pt;
+}
+.header-area{
+	height:62px;
+	width:100%;
+	background-color:#ffffff;
+	
+	
+}
+
+.list{
+	overflow:hidden;
+	margin-left:90px;
+	float:left;
+}
+.list li{
+	float:left;
+	overflow:hidden;
+	display:block;
+	font-size:20px;
+	padding: 0pt 14px;
+	line-height:65px;
+	margin:0pt;
+	font:inherit;
+	vertical-align:baseline;
+	text-align:left;
+	
+}
+.list a{
+	color:#0078CA;
+	font-size:19px;
+	margin-top:6px;
+	display:block;
+	font-family:Segoe UI;
+	text-decoration:none;
+}
+.listu li{
+	float:left;
+	overflow:hidden;
+	display:block;
+	font-size:25px;
+	padding: 0pt 14px;
+	line-height:65px;
+	margin:0pt;
+	font:inherit;
+	vertical-align:baseline;
+	text-align:left;
+	margin-top:10px;
+	
+}
+.listu a{
+	color:#0078CA;
+	font-size:16px;
+	margin-top:14px;
+	display:block;
+	font-family:Segoe UI;
+	text-decoration:none;
+	
+}
+.listu .sign{
+	margin-left:490px;
+	font-family:Segoe UI;
+}
+.second-half{
+	height:30%;
+	width:97%;
+	background-color:#e7f1f5;
+	
+	padding-right:3%;
+}
+.bridging{
+	color:black;
+	font-size:55px;
+	margin-top:12pt;
+	text-align:center;
+	
+}
+.definition{
+	font-size:25px;
+	margin-top:60pt;
+	margin-left:8px;
+	font-family:Segoe UI;
+}
+.para{
+	margin-left:10px;
+	font-family:Segoe UI;
+	font-size:18;
+	margin-top:-20pt;
+	line-height:35px;
+	
+}
+.staff{
+	font-family:david,helvetica,arial unicode MS,tahoma,arial,Segoe UI Light;
+	font-size:35px;
+	margin-left:4px;
+	margin-right:-20px;
+	margin-bottom:30px;
+}
+.course table{
+	margin:60px 0px 100px 150px;
+	width:80%;
+	height:500px;
+	font-size:20px;
+}
+.requirement {
+	
+	margin-top:200px;
+}
+.requirement table{
+	margin-top:40px;
+	width:80%;
+	font-size:23px;
+	height:500px;
+}
+.mustknow{
+	margin-top:140px;
+	margin-left:10px;
+	font-size:20px;
+}
+.footer img{
+	margin-top:120px;
+	width:103%;
+}
+.signIn {
+	font-family:david,helvetica,arial unicode MS,tahoma,arial,Segoe UI Light;
+	font-size:34px;
+	line-height:85px;
+	margin: 10px 196px 0px 196px;
+	color:#333534;
+}
+.signin-area{
+	height:377px;
+	width:47%;
+	background-color:#fafcfd;
+	margin: 5px 196px 36px 196px;
+	float:left;
+}
+.signin-area label{
+	font-size:14px;
+	line-height:16px;
+	color:#333534;
+	float:none;
+	display:block;
+	padding:30px 5px 8px 30px;
+}
+.signin-area input{
+	color:rgb(51, 53, 52);
+	border:2px solid rgb(0, 175, 240);
+	margin:0pt 30px;
+	height:31px;
+	width:45%;
+}
+.signin-area img{
+	margin:18px 0px 0px 30px;
+	width:23%;
+	cursor:pointer;
+	
+}
+.signin-area button{
+	font-family:Segoe UI,sans-serif;
+	font-size:22px;
+	display:inline-block;
+	height:40px;
+	width:150px;
+	line-height:40px;
+	overflow:hidden;
+	position:relative;
+	text-align:center;
+	background:#7FBA00;
+	border-radius:25px;
+	color: #fff;
+	cursor:pointer;
+	margin-top:20px;
+	margin-left:28px;
+	border:0;
+	
+}
+.signin-area a{
+	color:#3C99DE;
+	text-decoration:none;
+	float:left;
+	margin:0px 0px 0px 30px;
+	
+	
+}
+.img{
+	margin:0px 0px 0px 30px;
+	
+}
+.fb p{
+	padding:5px 5px 1px -25px ;
+	
+	float:left;
+	
+	overflow:hidden;
+}
+.fb img{
+	width:3%;
+	float:left;
+	margin:-2px -27px 0px 290px;
+	overflow:hidden;
+	display:block;
+}
+.fb p{
+	margin:-2px -27px 0px 290px;
+	overflow:hidden;
+	display:block;
+	float:none;
+	
+}
+.signin-area hr{
+	color:#f2f7f9;
+	margin-bottom:10px;
+	margin-top:25px;
+}
+.sign-right img{
+	float:right;
+	margin-top:-107px;
+	
+}
+.border{
+	border:3px solid #00aff0;
+	margin-top:-100px;
+}
+.hover{
+	
+	color:#3C99DE;
+	text-decoration:none;
+	float:left;
+	margin:0px 0px 0px 30px;
+}	
